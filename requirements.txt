@@ -1,0 +1,3 @@
+```txt
+requests>=2.25.0
+dnspython>=2.1.0
