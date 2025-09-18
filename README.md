@@ -57,14 +57,17 @@ python subdomain_monitor.py example.com --email-config email_config.json
 #automatically checks for new subdomain every 10 hours
 ```
 
-#### Monitor with custom interval (30 minutes)
+### Monitor with custom interval (30 minutes)
 ```bash
 python subdomain_monitor.py example.com --interval 1800
 ```
 
-#### Run once to check
+### Run once to check
 ```bash
 python subdomain_monitor.py example.com --once
 ```
+# Created by hxxfrd
+X profile: x.com/f_r_e_d_d_y_1
+
 # 📄 License
 MIT License - feel free to modify and distribute!
