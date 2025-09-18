@@ -66,3 +66,5 @@ python subdomain_monitor.py example.com --interval 1800
 ```bash
 python subdomain_monitor.py example.com --once
 ```
+# 📄 License
+MIT License - feel free to modify and distribute!
